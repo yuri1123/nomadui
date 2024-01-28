@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:nomadui1/widgets/button.dart';
-import 'package:nomadui1/widgets/currency_card.dart';
+
+import 'widgets/button.dart';
+import 'widgets/currency_card.dart';
+
 
 void main() {
   runApp(const MyApp());
